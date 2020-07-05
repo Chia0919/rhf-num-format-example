@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/cleave.js": "^1.4.2",
+    "cleave.js": "^1.6.0"
+  },
+  "dependencies": {
+    "bignumber.js": "^9.0.0"
+  }
+}
